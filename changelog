@@ -1,0 +1,9 @@
+Changelog
+Current Version: 0_0_3
+Last edited by: Martin
+MissionName: GKNP_MaldenLife_0_0_3.pbo
+
+Changes:
+Were:                                                               What:                                   Who         Version:
+---------------------------------------------------- Base Versions -------------------------------------------------------------
+@Mission.pbo\Config\Config_vItems.cfg                               Added Kartell Boss Shop                 Martin      0.0.3
